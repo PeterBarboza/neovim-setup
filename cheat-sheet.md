@@ -13,5 +13,7 @@ CTRL+l
 :NvimTreeOpen
 # Close sidebar
 :NvimTreeClose
+# Toogle (Open/Close) sidebar
+:NvimTreeToggle
 ```
 ## Insert mode
